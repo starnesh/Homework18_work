@@ -1,0 +1,111 @@
+section{
+    background-color: #BB9776;
+    font-family: 'SF Pro Rounded';
+}
+.myWork{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    font-family: 'SF Pro Rounded';
+    font-style: bold;
+    font-size: 96px;
+    color: #FFFFFF;
+}
+
+.grid-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;    
+}
+.section1{
+    position: relative;
+    width: 40%;
+    font-family: 'SF Pro Rounded';
+    font-style: normal;
+    font-weight: 150;
+    font-size: 36px;
+    flex-direction: row;
+}
+
+.HomeAid{
+    position: relative;
+    padding: 20px;
+    color: #262421;
+    width: auto;
+    direction: ltr;
+    font-size: 36px;
+    justify-items: left;
+}
+
+.para1{
+    position: relative;
+    background-color:#262421;
+    padding: 20px;
+    color: #FFFFFF;
+    width: auto;
+    direction: ltr;
+    font-size: 28px;
+}
+
+.button1{
+    position: center;
+    width: 200px;
+    height: 75px;
+    padding: 10px;
+    font-size: 20px;
+    justify-content: center;
+}
+
+.HomeAidProject{
+    width: 500px;
+    height: 300px;
+}
+
+.section2{
+    position: relative;
+    width: 40%;
+    font-family: 'SF Pro Rounded';
+    font-style: normal;
+    font-weight: 150;
+    font-size: 36px;
+    flex-direction: row;
+}
+
+.CMM{
+    position: relative;
+    padding: 20px;
+    color: #262421;
+    width: auto;
+    direction: ltr;
+    font-size: 36px;
+}
+
+.para2{
+    position: relative;
+    background-color:#262421;
+    padding: 20px;
+    color: #FFFFFF;
+    width: auto;
+    direction: ltr;
+    font-size: 28px;
+}
+
+.CMMProject{
+    width: 500px;
+    height: 300px;
+}
+.button2{
+    position: relative;
+    width: 200px;
+    height: 75px;
+    padding: 10px;
+    font-size: 20px;
+    justify-content: center;
+}
+.button3{
+    position: relative;
+    width: 250px;
+    height: 50px;
+    font-size: 30px;
+    padding: 20px;
+}

@@ -1,4 +1,4 @@
-section{
+html{
     background-color: #BB9776;
     font-family: 'SF Pro Rounded';
 }
@@ -103,9 +103,9 @@ section{
     justify-content: center;
 }
 .button3{
-    position: relative;
+    position: center;
     width: 250px;
     height: 50px;
-    font-size: 30px;
+    font-size: 24px;
     padding: 20px;
 }
